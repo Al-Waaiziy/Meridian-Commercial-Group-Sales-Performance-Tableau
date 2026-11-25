@@ -83,7 +83,6 @@ The analysis addresses the following business questions.
 https://github.com/user-attachments/assets/3af6b249-2260-4ec9-a03e-9856d8d5a9aa
 </p>
 
-
 <p align="center">
   <em>Meridian Commercial Group Sales Performance and Business Intelligence Dashboard developed using Tableau.</em>
 </p>
@@ -374,7 +373,7 @@ https://github.com/Al-Waaiziy/Meridian-Commercial-Group-Sales-Performance-Tablea
 
 **Tableau Public Dashboard**
 
-[Insert the published Tableau Public dashboard URL here]
+https://public.tableau.com/app/profile/mushab.abdullahi/viz/MERIDIANCOMMERCIALGROUP-MCGSalesPerformance/Dashboard1
 
 # 16. ABOUT THE AUTHOR
 
